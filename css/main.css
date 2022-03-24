@@ -1,0 +1,36 @@
+.error{color:red;}
+.success{color:green;}
+.footer{
+  background: lightseagreen;
+  color: white;
+  padding:20px 0px;
+}
+.footer-text{
+  text-align: center;
+}
+.header{
+    background: lightseagreen;
+  color: white;
+  padding:20px 0px;
+}
+.header-text{
+  text-align: center;
+}
+.topics{
+  padding: 200px 0px;
+}
+.headings {
+  text-align: center;
+  padding: 10px 0px;
+  background: whitesmoke;
+  margin-top: 10px;
+}
+
+.topics ul li{
+  list-style: none;
+  
+}
+.topics ul li a{
+  text-decoration: none;
+  
+}
